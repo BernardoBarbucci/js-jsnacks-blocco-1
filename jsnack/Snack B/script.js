@@ -14,7 +14,7 @@ if (!isNaN(numberCheck) && userNumber.length === 7) {
         let sum = 0;
         // step-2 = faccio la somma con un cycle for
         for (let = if; i < userNumber.length; i++) {
-            
+            sum += (userNumber);
         }
 
     
