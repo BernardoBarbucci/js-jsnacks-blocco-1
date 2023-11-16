@@ -10,7 +10,13 @@ let  numberCheck = parseInt(userNumber);
 if (!isNaN(numberCheck) && userNumber.length === 7) {
     // dentro if metto un cycle for per sommare i numeri che compongono il numero a 7 cifre,
     // sempre se è un unmero a 7 cifre
-    let sum    
+        // step 1 = creo una variabile
+        let sum = 0;
+        // step-2 = faccio la somma con un cycle for
+        for (let = if; i < userNumber.length; i++) {
+            
+        }
+
     
     console.log('hai inserito un numero a 7 cifre, grande!');
 } else {
