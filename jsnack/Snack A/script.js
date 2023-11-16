@@ -3,10 +3,10 @@
 // // arry vuoto
 const oddNumbers [''];
 
-// richiesta all'utente
-let userNumber = prompt('Inserisci qua il tuo numero: ');
-console.log('Hai inserito:', userInput);
-
 // ciclo for per chiedere 6 volte il numero all'utente
-for (i = 0; )
+for (i = 0; i <= 6; i++) {
+    // richiesta all'utente
+    let userNumber = prompt('Inserisci qua il tuo numero: ');
+console.log('Hai inserito:', userInput);
+}
 
