@@ -9,3 +9,7 @@ let userNumber = prompt('Inserisci qua un numero a 7 cifre: ');
 // controllo che sia un numero intero
 let  numberCheck = parseInt(userNumber);
 
+// verifica che sia un numero a 7 e solo 7 cifre (===)
+if (!NaN(numberCheck) && userNumber.length === 7) {
+    
+}
