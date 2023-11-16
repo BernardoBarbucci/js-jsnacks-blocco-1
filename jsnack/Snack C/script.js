@@ -10,6 +10,8 @@ let secondNumber = prompt('Inserisci un numero di 4 cifre: ');
 if (!isNaN(parseInt(firstNumber)) && firstNumber.length === 2 &&
     !isNaN(parseInt(secondNumber)) && secondNumber.length === 4) {
         console.log('Hai inserito due numeri validi:', firstNumber, secondNumber); 
+    } else {
+        console.log('I numeri che hai inserito non sono della lunghezza richiesta, il primo deve essere di 2 cifre ed il secondo di 4!')
     }
 // creare un loop dove si moltiplica solo il primo numero per 2
 // creare un IF + condizione secondo la quale il primo numero si moltiplica per 2 FINCHE non arriva a superare il secondo numero da 4 cifre
