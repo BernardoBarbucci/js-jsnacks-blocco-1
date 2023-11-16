@@ -13,7 +13,7 @@ if (!isNaN(numberCheck) && userNumber.length === 7) {
         // step-1 = creo una variabile
         let sum = 0;
         // step-2 = faccio la somma con un cycle for e creo quindi un loop per sommare i singoli numeri -> uso .split
-        for (let = i; i < userNumber.length; i++) {
+        for (let i = 0; i < userNumber.length; i++) {
             sum += parseInt(userNumber[i]);
         }
     
