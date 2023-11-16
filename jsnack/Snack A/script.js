@@ -16,7 +16,7 @@ for (i = 0; i <= 5; i++) {
     } else {
         console.log('Non è dispari, ma prova ancora fino a 6 volte');
     }
-
+    // else qua sopra completamente inutile???
 }
 // result in console dei numeri dispari inseriti nell'array
 console.log('Numeri dispari che hai inserito: ', oddNumbers);
