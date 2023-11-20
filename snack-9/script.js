@@ -4,3 +4,9 @@
 function addElFirstToElTwo(elementFirst, elementTwo) {
     elementFirst.appendChild(elementTwo);
 }
+
+const parent = document.getElementById('parent');
+const child = document.createElement('p');
+child.textContent = 'elemento creato come figlio';
+
+addElFirstToElTwo(parent, child);
