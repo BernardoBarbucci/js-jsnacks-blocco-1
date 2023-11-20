@@ -13,14 +13,6 @@ numberTwo = parseFloat(numberTwo);
 if (numberOne !== 0 && numberOne % numberTwo === 0) {
     console.log(numberOne, numberTwo)
 } else {
-    console.log(numberTwo);
+    console.log('Il primo numero non è divisibile per il secondo');
 }
 
-
-// function twoNumbers (numberOne, numberTwo) {
-//     if (numberOne.length === numberTwo.length) {
-//         return true;
-//     } else {
-//         return false;
-//     }
-// }
