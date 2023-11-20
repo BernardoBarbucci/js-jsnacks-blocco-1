@@ -5,6 +5,11 @@
 function twoWords (wordOne, wordTwo) {
     let wordOnee = ('Inserisci la prima parola');
     let wordTwo = ('Inserisci la seconda parola');
+    if (wordOne.length === wordTwo.length) {
+        console.log("Le parole hanno la stessa lunghezza.");
+    } else {
+        console.log("Le parole hanno lunghezze diverse.");
+    }
 }
 
 
