@@ -9,7 +9,7 @@ const zucchina = {
 const zucchina = {
     varietà: 'fiorentina',
     peso: '2.5 kg',
-    lunghezza: '.75m'
+    lunghezza: '.75 m'
 };
 
 const zucchina = {
@@ -20,38 +20,38 @@ const zucchina = {
 
 const zucchina = {
     varietà: 'tonde',
-    peso: '3 kg',
-    lunghezza: '1 metro'
+    peso: '5 kg',
+    lunghezza: '1 m'
 };
 const zucchina = {
-    varietà: 'romanesca',
-    peso: '3 kg',
-    lunghezza: '1 metro'
+    varietà: 'trombetta',
+    peso: '1.75 kg',
+    lunghezza: '2.4 m'
 };
 const zucchina = {
-    varietà: 'romanesca',
-    peso: '3 kg',
-    lunghezza: '1 metro'
+    varietà: 'pâtisson',
+    peso: '1 kg',
+    lunghezza: '.33 m'
 };
 const zucchina = {
-    varietà: 'romanesca',
-    peso: '3 kg',
-    lunghezza: '1 metro'
+    varietà: 'gialla',
+    peso: '.55 kg',
+    lunghezza: '1 m'
 };
 const zucchina = {
-    varietà: 'romanesca',
-    peso: '3 kg',
-    lunghezza: '1 metro'
+    varietà: 'rugosa friulana',
+    peso: '2.7 kg',
+    lunghezza: '4 m'
 };
 const zucchina = {
-    varietà: 'romanesca',
-    peso: '3 kg',
-    lunghezza: '1 metro'
+    varietà: 'Crookneck',
+    peso: '15 kg',
+    lunghezza: '12 m'
 };
 const zucchina = {
-    varietà: 'romanesca',
-    peso: '3 kg',
-    lunghezza: '1 metro'
+    varietà: 'spaziale',
+    peso: '100 kg',
+    lunghezza: '100 m'
 };
 
 
